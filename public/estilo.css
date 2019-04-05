@@ -1,0 +1,40 @@
+body {
+    font-family: 'Roboto, sans-serif';
+}
+
+.marcador-list {
+    list-style: none;
+    padding-left: 16px;
+}
+
+.marcador-list-itens {
+    margin: 0;
+}
+
+.font-sub-title {
+    font-size: 24px;
+}
+
+.style-title {
+    background-color: #C4C4C4;
+    padding: 8px;
+    font-size: 24px;
+}
+
+.layout-top {
+    text-align: center;
+}
+
+.layout-footer {
+    text-align: center;
+}
+
+.layout-footer-separator {
+    height:2px; 
+    border:none; 
+    color:#000; 
+    background-color:#000; 
+    margin-top: 0px; 
+    margin-bottom: 0px;
+}
+
