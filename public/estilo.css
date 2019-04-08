@@ -38,3 +38,23 @@ body {
     margin-bottom: 0px;
 }
 
+label {
+    display: block;
+    margin: 20px 0 4px 0;
+}
+
+input, select {
+    padding: 4px;
+    display: block;
+    width: 540px;
+}
+
+textarea {
+    padding: 8px;
+    width: 540px;
+    height: 220px;
+}
+
+button {
+    padding: 12px;
+}
